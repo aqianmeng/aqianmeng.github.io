@@ -3,11 +3,11 @@
   <title>my graduate life</title>
   
   <subtitle>山河远阔 人间烟火</subtitle>
-  <link href="http://aqianmeng.github.io/atom.xml" rel="self"/>
+  <link href="http://aqianmeng.github.io/project/atom.xml" rel="self"/>
   
-  <link href="http://aqianmeng.github.io/"/>
+  <link href="http://aqianmeng.github.io/project/"/>
   <updated>2022-02-21T10:53:21.998Z</updated>
-  <id>http://aqianmeng.github.io/</id>
+  <id>http://aqianmeng.github.io/project/</id>
   
   <author>
     <name>浅梦</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://aqianmeng.github.io/2022/02/21/hello-world/"/>
-    <id>http://aqianmeng.github.io/2022/02/21/hello-world/</id>
+    <link href="http://aqianmeng.github.io/project/2022/02/21/hello-world/"/>
+    <id>http://aqianmeng.github.io/project/2022/02/21/hello-world/</id>
     <published>2022-02-21T10:53:21.998Z</published>
     <updated>2022-02-21T10:53:21.998Z</updated>
     
